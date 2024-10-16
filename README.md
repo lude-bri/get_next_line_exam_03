@@ -54,6 +54,6 @@ char	  *get_next_line(int fd);
 
 - No call to another function will be done on the file descriptor between 2 calls of get_next_line.
 
-### FILE
+### File
 
 - Finally we consider that get_next_line has an undefined behaviour when reading from a binary file.
