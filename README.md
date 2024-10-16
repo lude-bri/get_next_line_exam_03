@@ -1,6 +1,8 @@
 # get_next_line_exam_03
 
-In this exercise, we have to replicate the get_next_line function. Only 2 files required:
+In this exercise, we have to replicate the get_next_line function. 
+
+Only 2 files are required:
 
 `get_next_line.c` and `get_next_line.h`
 
