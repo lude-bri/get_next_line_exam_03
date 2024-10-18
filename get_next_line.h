@@ -8,7 +8,6 @@
 #  define BUFFER_SIZE 42
 # endif
 
-
 /********************************/
 /*         INCLUDES            */
 /******************************/
@@ -17,7 +16,6 @@
 # include <fcntl.h>
 # include <stdio.h>
 # include <stdlib.h>
-
 
 /********************************/
 /*         FUNCTIONS           */
